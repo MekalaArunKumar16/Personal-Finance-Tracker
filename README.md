@@ -1,6 +1,6 @@
-# 🚀 Task Management Application
+# 💰 Personal Finance Tracker 💼
 
-A simple and intuitive Task Management Application to organize your tasks effectively. Built with React, Axios, and Tailwind CSS, it allows you to manage tasks with ease and style.
+A comprehensive, user-friendly application to manage and track your finances effectively.
 
 ---
 
@@ -31,29 +31,42 @@ A simple and intuitive Task Management Application to organize your tasks effect
 ### Prerequisites
 
 - Node.js installed on your machine.
-- Backend API running (base URL: `http://localhost:5000/api`).
 
 ### Steps
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/task-manager.git
-    cd task-manager
+     git clone https://github.com/MekalaArunKumar16/Personal-Finance-Tracker.git
+    cd Personal-Finance-Tracker
     ```
 
-2. Install dependencies:
+2. setup for Backend:
     ```bash
+    cd backend/task-manager-backend
     npm install
+    npm start
     ```
 
 3. Start the development server:
     ```bash
-    npm start
+    cd backend/task-manager-frontend
+    npm i
+    npm run dev
     ```
 
 4. Verify the backend server is running at `http://localhost:5000/api`.
+5. 4. Verify the backend server is running at ` http://localhost:5173/`.
 
 ---
 
-## 📂 Folder Structure
+## 📸 Screenshots
+## Home page
+![image](https://github.com/user-attachments/assets/1cb954a0-700c-41b0-a4ad-ac969102449b)
+## Add New Task
+![image](https://github.com/user-attachments/assets/52650034-9624-441c-88b4-23fed93bd7c5)
+## Edit/Update Task
+![image](https://github.com/user-attachments/assets/46600df7-29ae-41a6-a77a-8adf6508cad0)
+
+
+
 
